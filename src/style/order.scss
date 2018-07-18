@@ -1,0 +1,22 @@
+
+.order_container {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .order_inputs {
+    width: 25vw;
+    margin: 10px;
+ }
+ 
+ button {
+    margin-top: 10px;
+    width: 25vw;
+ }
+ 
+ p {
+    color: white;
+ }
